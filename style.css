@@ -1,0 +1,16 @@
+
+
+
+#container{
+    color :blue;
+}
+
+.body{
+    background-color: #e4d24d;
+}
+
+#photo{
+    position: relative;
+    height: 100px;
+}
+
