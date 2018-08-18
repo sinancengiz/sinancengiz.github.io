@@ -1,28 +1,29 @@
 {
-  "_from": "@fortawesome/fontawesome-free@5.2.0",
+  "_from": "@fortawesome/fontawesome-free",
   "_id": "@fortawesome/fontawesome-free@5.2.0",
   "_inBundle": false,
   "_integrity": "sha512-4pgStJx9UmydKc7wwF6Xjw4dFqzUnQejeuP2aUNHWazayWbmMbrx5rieN9+oob4bUwkf1thS3am0Ko+uhFHpNA==",
   "_location": "/@fortawesome/fontawesome-free",
   "_phantomChildren": {},
   "_requested": {
-    "type": "version",
+    "type": "tag",
     "registry": true,
-    "raw": "@fortawesome/fontawesome-free@5.2.0",
+    "raw": "@fortawesome/fontawesome-free",
     "name": "@fortawesome/fontawesome-free",
     "escapedName": "@fortawesome%2ffontawesome-free",
     "scope": "@fortawesome",
-    "rawSpec": "5.2.0",
+    "rawSpec": "",
     "saveSpec": null,
-    "fetchSpec": "5.2.0"
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
+    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.2.0.tgz",
   "_shasum": "50cd9856774351c56c0b1b0db4efe122d7913e58",
-  "_spec": "@fortawesome/fontawesome-free@5.2.0",
-  "_where": "/Users/DANGER_DAVID/Sites/startbootstrap-themes/startbootstrap-grayscale",
+  "_spec": "@fortawesome/fontawesome-free",
+  "_where": "/Users/DANGER_DAVID/Sites/startbootstrap-themes/startbootstrap-stylish-portfolio",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
